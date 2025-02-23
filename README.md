@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nimantha Supun</h1>
-<h3 align="center">BSc Data Science Undergraduate</h3>
 
 <p align="left"> 
   <a href="https://twitter.com/Nimanth51079132" target="blank">
@@ -8,10 +7,7 @@
 </p>
 
 ### 👨‍🎓 About Me
-- 🎓 Currently pursuing BSc in Data Science
-- 🌱 Exploring the world of Data Science and Analytics
-
-### 📫 How to reach me
+- 🎓 Currently following a BSc in Data Science
 - 📧 Email: **supunnimantha199@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
